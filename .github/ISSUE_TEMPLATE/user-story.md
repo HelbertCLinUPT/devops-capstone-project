@@ -1,13 +1,12 @@
-**As a** [rol]  
-**I need** [función]  
-**So that** [beneficio]  
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]  
+      
+### Details and Assumptions
+    * [document what you know]      
 
-### Detalles y Supuestos
-* [documenta lo que sabes]      
-
-### Criterios de Aceptación
-```gherkin
-Given [algún contexto]
-When [se realiza cierta acción]
-Then [se observa el resultado de la acción]
-```
+### Acceptance Criteria     
+    gherkin 
+    Given [some context]
+    When [certain action is taken]
+    Then [the outcome of action is observed]
